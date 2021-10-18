@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PARABOY6700
+- 👋 Hi, I’m @abhishek pandey
 - 👀 I’m interested in ...WEB DEVELOPMENT
 - 🌱 I’m currently learning ...APP DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...GOOGLE
